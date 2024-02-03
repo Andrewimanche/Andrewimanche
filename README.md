@@ -1,3 +1,4 @@
+
 - 👋 Hi, I’m @Andrewimanche
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -16,4 +17,4 @@ what is the way out of it
 please help me out of it 
 how can I know if i am doing the right thing.
 what is the difference between training and learning.
-
+please teach me how to use the right word.
